@@ -18,3 +18,12 @@ This is an introduction course to Python
 5. Avatar
 6. Gato con Botas
 7. V Vendetta
+
+## List of ARtist  
+1. Pedro Suarez-Vertiz
+2. Maroon Five
+3. Michael Jacksonm
+4. Bandalos Chinos
+5. Gustavo Cerati
+6. Led Zepellin
+7. Eladio Carrion
